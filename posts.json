@@ -1,0 +1,62 @@
+[
+  {
+    "id": "1",
+    "title": "The Power of Positive Thinking",
+    "content": "Explore the profound impact of a positive mindset on mental health, relationships, and personal growth, with practical tips for incorporating positivity into your daily life.",
+    "author": "1"
+  },
+  {
+    "id": "2",
+    "title": "Climate Change: A Global Crisis",
+    "content": "This article delves into the causes, consequences, and potential solutions to the pressing issue of climate change, highlighting the need for urgent action.",
+    "author": "2"
+  },
+  {
+    "id": "3",
+    "title": "The Art of Effective Communication",
+    "content": "Learn essential communication skills, including active listening and nonverbal cues, to improve relationships, enhance teamwork, and excel in both personal and professional settings.",
+    "author": "2"
+  },
+  {
+    "id": "4",
+    "title": "The History of Ancient Rome",
+    "content": "Journey through the rise and fall of the Roman Empire, exploring its significant events, leaders, culture, and enduring impact on modern civilization.",
+    "author": "1"
+  },
+  {
+    "id": "5",
+    "title": "Healthy Eating: Beyond the Fads",
+    "content": "Discover evidence-based dietary principles and strategies for maintaining a balanced and nutritious diet, debunking common myths and trends in the health food industry.",
+    "author": "3"
+  },
+  {
+    "id": "6",
+    "title": "The Future of Artificial Intelligence",
+    "content": "Delve into the evolving landscape of AI technology, its applications in various industries, and the ethical considerations surrounding its development and implementation.",
+    "author": "3"
+  },
+  {
+    "id": "7",
+    "title": "Traveling on a Budget: Tips and Tricks",
+    "content": "Uncover budget-friendly travel hacks, from finding affordable accommodations to maximizing your experiences while exploring new destinations.",
+    "author": "4"
+  },
+  {
+    "id": "8",
+    "title": "Unlocking Creativity: A Guide for Artists",
+    "content": "Artists of all levels can benefit from this guide, which explores techniques, exercises, and inspiration sources to foster creativity and artistic expression.",
+    "author": "5"
+  },
+  {
+    "id": "9",
+    "title": "Entrepreneurship: From Idea to Business",
+    "content": "Follow the entrepreneurial journey, from conceptualizing a business idea to launching and scaling a successful startup, with insights from seasoned entrepreneurs.",
+    "author": "1"
+  },
+  {
+    "id": "10",
+    "title": "Mindfulness Meditation for Stress Reduction",
+    "content": "Explore the practice of mindfulness meditation, its scientifically proven benefits for reducing stress and anxiety, and step-by-step instructions for beginners.",
+    "author": "1"
+  }
+]
